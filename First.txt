@@ -1,1 +1,3 @@
-Detta är min första fil.
+﻿Detta är min första fil.
+
+Och mer text.
